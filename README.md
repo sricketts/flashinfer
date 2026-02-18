@@ -70,7 +70,7 @@ High-Performance GPU Kernels for Inference
 | Blackwell | SM 10.0, 10.3 | B200, B300 |
 | Blackwell | SM 12.0, 12.1 | RTX 50 series, DGX Spark, Jetson Thor |
 
-> **Note:** not all features are supported across all compute capabilities.
+> **Note:** Not all features are supported across all compute capabilities.
 
 ## News
 
